@@ -1,7 +1,8 @@
 # Sentence-Classification: Abstract Segmentation
 DistilBERT model fine tuned for sentence classification.
 
-### **Objective** : Classify each sentence of an abstract into Objectives, Methods, Conclusions, Results and Background.
+### **Objective** : 
+Classify each sentence of an abstract into Objectives, Methods, Conclusions, Results and Background.
 
 # Data Source:
 * [PubMed 200k RCT Dataset](https://github.com/Franck-Dernoncourt/pubmed-rct)
