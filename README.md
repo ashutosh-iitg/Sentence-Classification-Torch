@@ -1,5 +1,5 @@
 # Sentence-Classification: Abstract Segmentation
-DistillBERT model fine tuned for sentence classification.
+DistilBERT model fine tuned for sentence classification.
 
 ### **Objective** : Classify each sentence of an abstract into Objectives, Methods, Conclusions, Results and Background.
 
